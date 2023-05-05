@@ -1,0 +1,36 @@
+#immagini-rotonda {
+  margin-left: 20px;
+}
+
+.container-fluid2 {
+  background-color: #7650FE;
+  padding-right: 200px;
+}
+
+.container-fluid2 h1 {
+  color: white;
+  padding-top: 85px;
+  padding-right: 30px;
+}
+
+.testo p {
+  color: #BDA9FF;
+  font-size: 19px;
+  padding-bottom: 8px;
+}
+
+#bottone1 {
+  color: white;
+  background-color: #1CCB98;
+  border-radius: 5px;
+  border: #1CCB98;
+  padding: 10px;
+}
+
+#bottone2 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: #ffffff;
+  padding: 10px;
+  color: black;
+}/*# sourceMappingURL=style.css.map */

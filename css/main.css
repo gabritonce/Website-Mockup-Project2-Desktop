@@ -1,0 +1,86 @@
+#ciao {
+  padding-left: 220px;
+}
+
+#hr {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  opacity: 0.15;
+}
+
+#paragraph1 {
+  line-height: 1;
+  padding-top: 11px;
+}
+
+#paragraph2 {
+  line-height: 1;
+  padding-top: 11px;
+}
+
+#paragraph3 {
+  line-height: 1;
+  padding-top: 11px;
+}
+
+#div-paragraph3 {
+  padding-left: 0;
+  padding-right: 150px;
+}
+
+h4 {
+  padding-left: 220px;
+  font-weight: 400;
+}
+
+.cards {
+  margin-right: 20px;
+}
+
+#card-body {
+  padding-bottom: 0;
+}
+
+#card-footer {
+  padding-top: 15px;
+}
+
+#container-main {
+  padding-left: 165px;
+  margin-bottom: 150px;
+}
+
+#hr3 {
+  opacity: 0.15;
+}
+
+footer p {
+  padding-left: 220px;
+}
+
+footer div {
+  margin-left: 450px;
+}
+
+@media screen and (max-width: 768px) {
+  .testo {
+    padding-left: 300px;
+  }
+  .testo h1 {
+    font-size: 70px;
+  }
+  .testo p {
+    font-size: 30px;
+  }
+  .container-fluid2 {
+    padding-right: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .immagini-persona {
+    padding-left: 170px;
+    padding-top: 50px;
+  }
+  #ciao {
+    padding: 50px;
+  }
+}/*# sourceMappingURL=main.css.map */
