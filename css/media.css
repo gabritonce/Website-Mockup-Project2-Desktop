@@ -1,0 +1,134 @@
+@media screen and (min-width: 768px) {
+  #immagini-rotonda {
+    margin-left: 20px;
+  }
+  .container-fluid2 {
+    background-color: #7650FE;
+    padding-right: 200px;
+  }
+  .container-fluid2 h1 {
+    color: white;
+    padding-top: 85px;
+    padding-right: 30px;
+  }
+  .testo p {
+    color: #BDA9FF;
+    font-size: 19px;
+    padding-bottom: 8px;
+  }
+  #bottone1 {
+    color: white;
+    background-color: #1CCB98;
+    border-radius: 5px;
+    border: #1CCB98;
+    padding: 10px;
+  }
+  #bottone2 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: #ffffff;
+    padding: 10px;
+    color: black;
+  }
+  #ciao {
+    padding-left: 220px;
+  }
+  #hr {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    opacity: 0.15;
+  }
+  #paragraph1 {
+    line-height: 1;
+    padding-top: 11px;
+  }
+  #paragraph2 {
+    line-height: 1;
+    padding-top: 11px;
+  }
+  #paragraph3 {
+    line-height: 1;
+    padding-top: 11px;
+  }
+  #div-paragraph3 {
+    padding-left: 0;
+    padding-right: 150px;
+  }
+  h4 {
+    padding-left: 220px;
+    font-weight: 400;
+  }
+  .cards {
+    margin-right: 20px;
+  }
+  #card-body {
+    padding-bottom: 0;
+  }
+  #card-footer {
+    padding-top: 15px;
+  }
+  #container-main {
+    padding-left: 165px;
+    margin-bottom: 150px;
+  }
+  #hr3 {
+    opacity: 0.15;
+  }
+  footer p {
+    padding-left: 220px;
+  }
+  footer div {
+    margin-left: 450px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .container-fluid2 {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+  .background-viola {
+    background-color: #7650FE;
+  }
+  #bottone1 {
+    color: white;
+    background-color: #1CCB98;
+    border-radius: 5px;
+    border: #1CCB98;
+    padding: 10px;
+  }
+  #bottone2 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: #ffffff;
+    padding: 10px;
+    color: black;
+  }
+  .testo h1 {
+    font-size: 70px;
+  }
+  .testo p {
+    font-size: 30px;
+  }
+  section h4 {
+    padding-left: 15px;
+  }
+  .cards {
+    margin-right: 10px;
+  }
+  #ciao {
+    padding: 50px;
+  }
+  .display-none {
+    display: none;
+  }
+  footer p {
+    text-align: center;
+  }
+  footer div {
+    display: flex;
+    justify-content: center;
+  }
+  footer div p {
+    margin-right: 25px;
+  }
+}/*# sourceMappingURL=media.css.map */
